@@ -9,19 +9,14 @@ nav-menu: true
 <!-- Main -->
 <div id="main">
 
-s massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna.</p>
-	</div>
-</section>
-<!-- Three -->
-<section id="three">
+<!-- Arrow Links -->
+<section id="arrow">
 	<div class="inner">
 		<header class="major">
 			<h2>Links :</h2>
 		</header>
 		<ul class="actions">
-			<li><a href="generic.html" class="button next">XDA</a></li>
+			<li><a href="https://forum.xda-developers.com/moto-g5s-plus/development/rom-arrow-os-10-0-official-beta-t3982553" class="button next">XDA</a></li>
 		</ul>
 	</div>
 </section>
-
-</div>
