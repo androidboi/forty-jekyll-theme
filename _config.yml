@@ -1,6 +1,6 @@
 # site settings
 title: ASHWATTHAMA
-#subtitle: by HTML5 UP
+subtitle: SANDERS
 email: sai404142@gmail.com
 description: ANDROID ENTHUSIAST | UX DESIGNER |CUSTOM ROM DEVELOPER
 baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
@@ -15,7 +15,7 @@ phone: xyz
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
-tiles-count: 6
+tiles-count: 8
 
 # social settings
 500px_url:

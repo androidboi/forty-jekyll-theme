@@ -1,8 +1,8 @@
 ---
-title: Landing
+title: Arrow OS for MotoG5S Plus
 layout: landing
-description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
-image: assets/images/pic07.jpg
+description: 'ArrowOS is an AOSP based project started with the aim of keeping things simple, clean and neat. We added just the right and mostly used stuff that will be actually USEFUL at the end of the day, aiming to deliver smooth performance with better battery life.'
+image: assets/images/arrow.jpg
 nav-menu: true
 ---
 
